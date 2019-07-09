@@ -1,16 +1,17 @@
 # Manual-OpenDS
 This is a collection of usages and functionalities of OpenDS Framework.
 
-Introduction
-============
+## Why this Manual?
 
-In order to support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. Hereby, we collected and summarized them into two parts. We first presented the full list of key assignments, which could enable to use OpenDS Framework more easily. Then, we introduced several implementation details, which are divided into "Model" and "Trigger"
+To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped to help further incoming students could <u><b>be easier to catch up the key components</b></u> and <u><b>be faster to conduct implementations of customized scenarios</u></b>.
+
+## What are in this Manual ?
+
+Hereby, we collected and summarized them into two parts. We first presented <b>the full list of key assignments</b>, which could enable to use OpenDS Framework more easily. Then, we introduced several implementation details, which are divided into two parts: <b>"Model"</b> and <b>"Trigger"</b>.
 
 <br>
 
-Directory
-=========
-
+## Directory
 
 <!--ts-->
    * [Directory](#Directory)
@@ -25,4 +26,10 @@ Directory
 
 <!--te-->
 <br>
+
+Contributor
+===========
+
+[Shuolei Wang](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
+
 <br>
