@@ -1,6 +1,12 @@
 # Manual-OpenDS
-This is an initial version of usages of OpenDS. Users can modify our scenario and program by referring to this document.
+This is a collection of usages and functionalities of OpenDS Framework.
 
+Introduction
+============
+
+In order to support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. Hereby, we collected and summarized them into two parts. We first presented the full list of key assignments, which could enable to use OpenDS Framework more easily. Then, we introduced several implementation details, which are divided into "Model" and "Trigger"
+
+<br>
 
 Directory
 =========
@@ -19,11 +25,4 @@ Directory
 
 <!--te-->
 <br>
-<br>
-
-Introduction
-============
-
-The purpose of this manual is to show the details of building OpenDS scenarios. In this manual, we will mainly illustrate the default key assignment of simulator, the models' setting such as traffic light triggers, car's movement and autopilot, pedestrian and all kinds of trigger events.
-
 <br>
