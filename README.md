@@ -19,10 +19,10 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
 
 <!--ts-->
    * [Directory](#Directory)
-   * [Key Assignment](https://github.com/ShuoleiWang/Manual-OpenDS/tree/master/Key%20Assignment)
-   * [Implementation Details](https://github.com/ShuoleiWang/Manual-OpenDS/tree/master/Implementation%20Details/)
-      * [Model](https://github.com/ShuoleiWang/Manual-OpenDS/tree/master/Implementation%20Details/Model)
-      * [Trigger](https://github.com/ShuoleiWang/Manual-OpenDS/tree/master/Implementation%20Details/Trigger)
+   * [Key Assignment](https://github.com/unnc-idl-ucc//Manual-OpenDS/tree/master/Key_Assignment)
+   * [Implementation Details](https://github.com/unnc-idl-ucc//Manual-OpenDS/tree/master/Implementation_Details)
+      * [Model](https://github.com/unnc-idl-ucc//Manual-OpenDS/tree/master/Implementation_Details/Model)
+      * [Trigger](https://github.com/unnc-idl-ucc//Manual-OpenDS/tree/master/Implementation_Details/Trigger)
 
 
   <!-- * [Tests](#tests)-->
