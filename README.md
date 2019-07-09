@@ -27,8 +27,7 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
 <!--te-->
 <br>
 
-Contributor
-===========
+## Contributor
 
 [Shuolei Wang](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
 
