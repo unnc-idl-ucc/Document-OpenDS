@@ -12,13 +12,13 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
 ## Directory
 
 <!--ts-->
-   * [Motivation]()
-   * [Overview]()
+   * [Motivation](#Motivation)
+   * [Overview](#Overview)
    * [Key Assignment](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Key_Assignment)
    * [Implementation Details](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Implementation_Details)
       * [Model](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Implementation_Details/Model)
       * [Trigger](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Implementation_Details/Trigger)
-   * [Contributor]()
+   * [Contributor](#Contributor)
 
   <!-- * [Tests](#tests)-->
 
