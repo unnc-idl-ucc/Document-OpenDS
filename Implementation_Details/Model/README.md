@@ -1,7 +1,7 @@
 # Model
 
 <br>
-This is the **model's declaration and setting code** in OpenDS.
+This is the <b>model's declaration and setting code</b> in OpenDS.
 
 <!--te-->
 <br>

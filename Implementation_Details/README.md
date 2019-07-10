@@ -1,7 +1,7 @@
 # Implementation Details
 <br>
 
-This is a collection of implementation detail of OpenDS scenarios, the implementation detail conclude the **odel** and **trigger** part.
+This is a collection of implementation detail of OpenDS scenarios, the implementation detail conclude the **model** and **trigger** part.
 
 
 
