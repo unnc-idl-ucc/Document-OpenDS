@@ -1,13 +1,9 @@
 # Implementation Details
-This is a collection of usages and functionalities about OpenDS Framework.
+<br>
 
-## Motivation
+This is a collection of implementation detail of OpenDS scenarios, the implementation detail conclude the **odel** and **trigger** part.
 
-To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped that it could help further incoming students could <b>be easier to catch up the key components</b> and <b>be faster to conduct implementations of customized scenarios</b>.
 
-## Overview
-
-Hereby, we collected and summarized them into two parts. We first presented <b>the full list of key assignments</b>, which could enable to use OpenDS Framework more easily. Then, we introduced several implementation details, which are divided into two parts: <b>"Model"</b> and <b>"Trigger"</b>.
 
 ## Directory
 

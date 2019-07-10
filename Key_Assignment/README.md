@@ -2,7 +2,7 @@
 
 <br>
 
-This is the default key assignment of OpenDS simulator.
+This is the default **key assignment** of **OpenDS simulator**.
 
 <br>
 

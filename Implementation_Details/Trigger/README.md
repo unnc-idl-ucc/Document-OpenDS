@@ -1,7 +1,7 @@
 # Trigger
 <br>
 
-This is the model's declaration and setting code in OpenDS.
+This is the **trigger's declaration and setting code** in OpenDS.
 
 <br>
 <br>
