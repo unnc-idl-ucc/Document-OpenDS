@@ -1,9 +1,9 @@
-# Manual-OpenDS
-This is a collection of usages and functionalities of OpenDS Framework.
+# Document-OpenDS
+This is a collection of usages and functionalities about OpenDS Framework.
 
 ## Motivation
 
-To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped to help further incoming students could <u><b>be easier to catch up the key components</b></u> and <u><b>be faster to conduct implementations of customized scenarios</u></b>.
+To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped that it could help further incoming students could <b>be easier to catch up the key components</b> and <b>be faster to conduct implementations of customized scenarios</b>.
 
 ## Overview
 
