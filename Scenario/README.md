@@ -1,4 +1,4 @@
-# Document-OpenDS
+# OpenDS-Scenario
 This is a collection of usages and functionalities about OpenDS.
 <br>
 ## Directory
@@ -6,8 +6,8 @@ This is a collection of usages and functionalities about OpenDS.
 <!--ts-->
 * [Motivation](#Motivation)
 * [Overview](#Overview)
-* [Key_Assignment](#Key_Assignment)
-* [Implementation_Details](#Implementation_Details)
+* [Key_Assignment](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario/Key_Assignment)
+* [Implementation_Details](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario/Implementation_Details)
     * [Model](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Model)
     * [Trigger](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Trigger)
 * [Contributor](#Contributor)
@@ -22,10 +22,6 @@ To support further usages, replications and modifications, a document (i.e. manu
 Hereby, we collected and summarized them into two parts. We first presented <b>the full list of key assignments</b>, which could enable to use OpenDS Framework more easily. Then, we introduced several implementation details, which are divided into two parts: <b>"Model"</b> and <b>"Trigger"</b>.
 
 
-
-  <!-- * [Tests](#tests)-->
-
-<!--te-->
 
 ## Contributor
 
