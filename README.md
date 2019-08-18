@@ -1,5 +1,5 @@
 # Document-OpenDS
-This is a collection of usages and functionalities about OpenDS Framework.
+This is a collection of usages and functionalities about OpenDS and jMonkeyEngine Framework.
 <br>
 
 ## Motivation
@@ -13,19 +13,19 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
 ## Directory
 
 <!--ts-->
-* [Scene](#Motivation)
-    * [Motivation](#Motivation)
-    * [Overview](#Overview)
-    * [Goal](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Aim%20and%20Choice)
-    * [Prerequisites](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Instruction)
-    * [Demonstration to Set Up](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+* [Scene](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
+    * [Motivation](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
+    * [Overview](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
+    * [Goal](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Aim%20and%20Choice)
+    * [Prerequisites](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Instruction)
+    * [Demonstration to Set Up](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Details%20about%20code)
        * [Geometry](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
        * [Textures](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
        * [Models](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
        * [Light](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
        * [Export](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
     * [References](#References)
-* [Scenario](#Motivation)
+* [Scenario](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
    * [Motivation](#Motivation)
    * [Overview](#Overview)
    * [Key Assignment](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Key_Assignment)
