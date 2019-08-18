@@ -26,16 +26,17 @@ This is a collection of usages and functionalities about OpenDS and jMonkeyEngin
    * [Implementation Details](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details)
       * [Model](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Model)
       * [Trigger](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Trigger)
+   * [Contributor](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
 * [Contributor](#Contributor)
 
 
 ## Motivation
 
-To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped that it could help further incoming students could <b>be easier to catch up the key components</b> and <b>be faster to conduct implementations of customized scenarios</b>.
+To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped that it could help further incoming students could <b>be easier to catch up the key components</b> and <b>be faster to conduct implementations of customized scenes and scenarios</b>.
 
 ## Overview
 
-Hereby, we collected and summarized them into two parts. We first presented <b>the full list of key assignments</b>, which could enable to use OpenDS Framework more easily. Then, we introduced several implementation details, which are divided into two parts: <b>"Model"</b> and <b>"Trigger"</b>.
+Hereby, we collected and summarized them into two parts. We first presented <b>the implementations of scenes</b>, which could enable to use jMonkeyEngine Framework more easily. Then, we presented <b>the usages and implementations of scenarios</b>, which are mainly divided into two parts: <b>"Key_Assignment"</b> and <b>"Implementation_Details"</b>.
 
 
   <!-- * [Tests](#tests)-->
