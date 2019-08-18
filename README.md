@@ -19,6 +19,7 @@ This is a collection of usages and functionalities about OpenDS and jMonkeyEngin
        * [Light](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
        * [Export](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
     * [References](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
+    * [Contributor](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
 * [Scenario](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
    * [Motivation](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
    * [Overview](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
