@@ -13,6 +13,19 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
 ## Directory
 
 <!--ts-->
+* [Scene](#Motivation)
+    * [Motivation](#Motivation)
+    * [Overview](#Overview)
+    * [Goal](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Aim%20and%20Choice)
+    * [Prerequisites](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Instruction)
+    * [Demonstration to Set Up](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+       * [Geometry](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+       * [Textures](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+       * [Models](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+       * [Light](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+       * [Export](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+    * [References](#References)
+* [Scenario](#Motivation)
    * [Motivation](#Motivation)
    * [Overview](#Overview)
    * [Key Assignment](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Key_Assignment)
@@ -21,12 +34,13 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
       * [Trigger](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Implementation_Details/Trigger)
    * [Contributor](#Contributor)
 
+
   <!-- * [Tests](#tests)-->
 
 <!--te-->
 
 ## Contributor
 
-[Shuolei Wang](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
+[Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
 
 <br>
