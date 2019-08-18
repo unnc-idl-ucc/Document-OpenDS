@@ -1,5 +1,7 @@
 # OpenDS-Scenes
+<br>
 Built Scenes to support for our user studies in 2019.
+
 Directory
 =========
 </br>
@@ -40,6 +42,6 @@ Math R, Mahr A, Moniri M M, et al. OpenDS: A new open-source driving simulator f
 
 ## Contributor
 
-[Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
+[Zilin Song](https://github.com/ShuoleiWang), [Shuolei Wang](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
 
 <br>
