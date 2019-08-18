@@ -2,7 +2,7 @@
 <br>
 Built Scenes to support for our user studies in 2019.
 
-Directory
+## Directory
 =========
 </br>
 
@@ -23,17 +23,17 @@ Directory
 
 <!--te-->
 
-Motivation
+## Motivation
 ============
 
 This part aims to create 3D scene for OpenDS framework by using JMonkeyEngine SDK3. We upload the needed models and textures, the code to build scene and the corresponding generated scene file.
 
-Overview
+## Overview
 ============
 We divided this part in three parts. For the first part, we represent the aim of this project and the choices of the design. The second part is about how you can import and run this project in your own computer. The last part is used to introduce some details about the code flie, which include Geometry, Texture, Models,Light and Export.
 
 
-References
+## References
 ========
 
 Kusterer R. jMonkeyEngine 3.0 Beginner's Guide[M]. Packt Publishing Ltd, 2013.
