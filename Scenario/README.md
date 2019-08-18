@@ -1,5 +1,5 @@
 # OpenDS-Scenario
-This is a collection of usages and functionalities about OpenDS.
+This is a collection of usages and functionalities about how to use OpenDS and how to implement scenarios.
 <br>
 ## Directory
 
