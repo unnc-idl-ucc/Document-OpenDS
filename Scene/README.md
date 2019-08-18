@@ -6,24 +6,25 @@ Directory
 
 
 <!--ts-->
-   * [Motivation](#Motivation)
-   * [Overview](#Overview)
-   * [Goal](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Aim%20and%20Choice)
-   * [Prerequisites](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Instruction)
-   * [Demonstration to Set Up](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
-      * [Geometry](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
-      * [Textures](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
-      * [Models](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
-      * [Light](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
-      * [Export](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
-   * [References](#References)
-   
+* [Motivation](#Motivation)
+* [Overview](#Overview)
+* [Goal](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Aim%26Choice)
+* [Prerequisites](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Instruction)
+* [Demonstration to Set Up](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
+   * [Geometry](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
+   * [Textures](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
+   * [Models](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
+   * [Light](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
+   * [Export](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
+* [References](#References)
+* [Contributor](#Contributor)
+
 <!--te-->
-   
+
 Motivation
 ============
 
-This project aims to create 3D scene for OpenDS framework by using JMonkeyEngine SDK3. We upload the needed models and textures, the code to build scene and the corresponding generated scene file.
+This part aims to create 3D scene for OpenDS framework by using JMonkeyEngine SDK3. We upload the needed models and textures, the code to build scene and the corresponding generated scene file.
 
 Overview
 ============
@@ -37,4 +38,8 @@ Kusterer R. jMonkeyEngine 3.0 Beginner's Guide[M]. Packt Publishing Ltd, 2013.
 
 Math R, Mahr A, Moniri M M, et al. OpenDS: A new open-source driving simulator for research[C]//Proceedings of the International Conference on Automotive User Interfaces and Interactive Vehicular Applications, Adjunct Proceedings. 2012: 7-8.
 
+## Contributor
 
+[Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
+
+<br>
