@@ -2,6 +2,15 @@
 This is a collection of usages and functionalities about OpenDS and jMonkeyEngine Framework.
 <br>
 
+## Motivation
+
+To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped that it could help further incoming students could <b>be easier to catch up the key components</b> and <b>be faster to conduct implementations of customized scenes and scenarios</b>.
+
+## Overview
+
+Hereby, we collected and summarized them into two parts. We first presented <b>the implementations of scenes</b>, which could enable to use jMonkeyEngine Framework more easily. Then, we presented <b>the usages and implementations of scenarios</b>, which are mainly divided into two parts: <b>"Key_Assignment"</b> and <b>"Implementation_Details"</b>.
+
+
 ## Directory
 
 <!--ts-->
@@ -19,7 +28,7 @@ This is a collection of usages and functionalities about OpenDS and jMonkeyEngin
        * [Light](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
        * [Export](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene/Code_Details)
     * [References](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
-    * [Contributor](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
+    * [Contributors](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scene)
 * [Scenario](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
    * [Motivation](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
    * [Overview](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
@@ -27,25 +36,28 @@ This is a collection of usages and functionalities about OpenDS and jMonkeyEngin
    * [Implementation Details](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details)
       * [Model](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Model)
       * [Trigger](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Trigger)
-   * [Contributor](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
-* [Contributor](#Contributor)
+   * [Contributors](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
+* [Unfinished work](#Unfinished work)
+* [Contributors](#Contributors)
 
 
-## Motivation
+## Unfinished work
 
-To support further usages, replications and modifications, a document (i.e. manual) has to been summarized in advance. We hoped that it could help further incoming students could <b>be easier to catch up the key components</b> and <b>be faster to conduct implementations of customized scenes and scenarios</b>.
+#### 1. Cornering lamp trigger
 
-## Overview
-
-Hereby, we collected and summarized them into two parts. We first presented <b>the implementations of scenes</b>, which could enable to use jMonkeyEngine Framework more easily. Then, we presented <b>the usages and implementations of scenarios</b>, which are mainly divided into two parts: <b>"Key_Assignment"</b> and <b>"Implementation_Details"</b>.
+There is no callable cornering lamp trigger method in OpenDS framework. Therefore, it is difficult to implement the cornering lamp trigger.
 
 
-  <!-- * [Tests](#tests)-->
+    
+#### 2. Automatically adapting speed in auto-pilot scenarios
+When user want to change the speed in auto-pilot scenarios, all of the speed, trigger coordinates in XML files will changed. The current OpenDS framework couldn't support this function.
 
-<!--te-->
 
-## Contributor
+
+## Contributors
 
 [Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
 
 <br>
+
+
