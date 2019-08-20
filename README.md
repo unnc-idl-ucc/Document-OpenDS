@@ -37,12 +37,11 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
       * [Model](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Model)
       * [Trigger](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Trigger)
    * [Contributors](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
-
-* [Unfinished work](#Unfinished work)
+* [Unfinished work](#Unfinished_work)
 * [Contributors](#Contributors)
 
 
-## Unfinished work
+## Unfinished_work
 
 #### 1. Cornering lamp trigger
 
