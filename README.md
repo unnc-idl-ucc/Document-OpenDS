@@ -37,23 +37,10 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
       * [Model](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Model)
       * [Trigger](https://github.com/unnc-idl-ucc//Document-OpenDS/tree/master/Scenario/Implementation_Details/Trigger)
    * [Contributors](https://github.com/unnc-idl-ucc/Document-OpenDS/tree/master/Scenario)
-* [Unfinished work](#Unfinished_work)
 * [Contributors](#Contributors)
 
 
-## Unfinished_work
-
-#### 1. Cornering lamp trigger
-
-There is no callable cornering lamp trigger method in OpenDS framework. Therefore, it is difficult to implement the cornering lamp trigger.
-
-
-    
-#### 2. Automatically adapting speed in auto-pilot scenarios
-When user want to change the speed in auto-pilot scenarios, all of the speed, trigger coordinates in XML files will changed. The current OpenDS framework couldn't support this function.
-
-
-
+<br>
 ## Contributors
 
 [Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
