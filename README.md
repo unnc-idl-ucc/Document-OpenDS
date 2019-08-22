@@ -40,7 +40,7 @@ Hereby, we collected and summarized them into two parts. We first presented <b>t
 * [Contributors](#Contributors)
 
 
-<br>
+
 ## Contributors
 
 [Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
